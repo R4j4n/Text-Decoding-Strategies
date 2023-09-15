@@ -3,7 +3,7 @@
 # Text Decoding Strategies in LLMS
 
 This repository provides from-scratch implementations of various text decoding strategies, offering users insights into the inner workings and nuances of each method.
-
+You can read the full in-depth blog here: [Blog Link](https://r4j4n.github.io/blogs/posts/text_decoding/)
 ## Table of Contents
 
 - [Text Decoding Strategies in LLMS](#text-decoding-strategies-in-llms)
