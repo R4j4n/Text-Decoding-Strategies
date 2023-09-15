@@ -45,6 +45,7 @@ from tempreature import RandomTempSampler
 from topk import TOPKsampler
 from topp import NucleusSampler
 ```
+For a complete use case, see the [usage.ipynb](https://github.com/R4j4n/Text-Decoding-Strategies/blob/main/usage.ipynb) file.
 
 ## Contributing
 
